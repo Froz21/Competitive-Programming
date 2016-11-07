@@ -3,7 +3,7 @@
 stack<int> stk;
 int id[N];
 int low[N];
-int curr_id=1;
+int curr_id;
 
 void dfs(int u){
 	stk.push(u);
