@@ -1,0 +1,9 @@
+- DP Opt Convex Hull ternary
+- DP Opt Divide and Conquer
+- DP Opt Knuth
+- DP Opt Lagrange ****
+
+- Geo -> Convexo o Concavo
+- Math -> Lucas Theorem (arreglar)
+- Grafos -> Dinic, Edmonds Blossom, Min Cut, Max Independent Set
+- 
